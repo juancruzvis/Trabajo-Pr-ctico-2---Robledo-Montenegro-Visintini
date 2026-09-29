@@ -2,3 +2,4 @@ Esto es un ejemplo para commitear 2.0
 funcion 1:
 funcion 2: 
 funcion 3:
+El grupo esta utilizando la aplicacion Visual Studio Code y se esta usando de extension Git y GitHub.
